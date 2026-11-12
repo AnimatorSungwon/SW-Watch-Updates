@@ -3,9 +3,9 @@
   "channel": "watch-development",
   "package": "com.swanimation.editor",
   "apk": "SW-Watch-Pannel.apk",
-  "version_code": 216656687,
+  "version_code": 216657002,
   "size": 2237118,
-  "sha256": "fda3477bb0dd2b541269a432ba14e4366bb787021cb679169a82558e99932004",
+  "sha256": "46a30b4c4e52e43722f5efef8de8d516c101dcc297c9f05c74e77a6b72d17d0d",
   "signer_sha256": "24b3b88a2e1dff4315648f1ad621939b22e272612f4fa72a86becfdf257b6c1b",
   "notes": "# SW Watch Pannel · 2026-11-12 · 원형 UI 5차 정정\n\n- 시작 화면을 실행 취소 면으로 복구하고 하단 메뉴로 옵션을 연다. 메인 좌우 밀기는 Undo/Redo이며 화면을 이동하지 않는다.\n- 공통 하단·전체 보기·위치 점을 제거하고 상세 주 동작을336–480으로 확장했다. 타임라인을 메뉴 첫 줄에 넣고 상세 뒤로를 메뉴로 맞췄다.\n- 메인5상태·연결 점·가장자리 힌트와 측정/업데이트/진단을 시안 좌표로 맞췄다. 메뉴 세로 스크롤·기존 통신/서명 검증을 유지한다.\n"
 }
