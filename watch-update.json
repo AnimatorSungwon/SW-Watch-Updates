@@ -3,9 +3,9 @@
   "channel": "watch-development",
   "package": "com.swanimation.editor",
   "apk": "SW-Watch-Pannel.apk",
-  "version_code": 216660073,
+  "version_code": 216660418,
   "size": 2245310,
-  "sha256": "2faea6c1ff3d3746174edf24dfb396b11808d20eccb63571b35c731f028e3748",
+  "sha256": "8e13aebef0c4f7299dd0244a3f34c40a52c73a9a5c4ecd3d22a94862352b5aa5",
   "signer_sha256": "24b3b88a2e1dff4315648f1ad621939b22e272612f4fa72a86becfdf257b6c1b",
   "notes": "# SW Watch Pannel · 2026-11-13 · 키프레임 패널과 진동 설정\n\n- 오른쪽 스와이프로 키프레임 패널을 열고 위 빈 키 삽입·아래 프레임 추가·좌우 키프레임 이동으로 조작합니다.\n- 화면 가장자리의 시계/반시계 방향 드래그로 다음/이전 프레임을 연속 이동합니다. 손을 떼면 멈추며 취소된 입력은 다시 실행하지 않습니다.\n- 설정에서 진동 끄기·세기와 최소 피드백을 저장합니다. 기본은 약한 결과 진동이며 빠른 연속 입력은 묶습니다.\n- 빈 키 삽입·프레임 추가는 새 폴드 수신기 지원을 확인해야 활성화됩니다. 기존 수신기에서는 안내와 함께 비활성화합니다.\n"
 }
